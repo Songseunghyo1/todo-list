@@ -17,3 +17,6 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+
+### Maven ###
+.mvn/**
